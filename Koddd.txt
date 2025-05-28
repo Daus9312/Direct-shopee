@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="refresh" content="0; url=https://s.shopee.com.my/6AYooVlOSX" />
+<title>Redirecting...</title>
+</head>
+<body>
+<p>Redirecting to Shopee...</p>
+</body>
+</html>
